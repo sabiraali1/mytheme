@@ -1,0 +1,2 @@
+# mytheme
+my first theme
